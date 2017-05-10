@@ -1,0 +1,8 @@
+title: ng-grid
+description: Angular Data Grid based on slickgrid/koGrid
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
